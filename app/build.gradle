@@ -44,5 +44,7 @@ dependencies {
     releaseCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.5.1'
     compile 'com.google.android.gms:play-services:11.4.2'
     compile 'com.google.android.gms:play-services-location:11.0.2'
+    compile 'com.felipecsl:gifimageview:2.1.0'
+    compile 'commons-io:commons-io:2.4'
 
 }
