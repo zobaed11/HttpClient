@@ -13,6 +13,10 @@ import org.apache.commons.io.IOUtils;
 import java.io.IOException;
 import java.io.InputStream;
 
+/**
+ * Created by WIN\c00300901 on 11/5/17.
+ */
+
 public class SplashActivity extends AppCompatActivity {
     private GifImageView gifImageView;
     private ProgressBar progressBar;
@@ -44,7 +48,7 @@ public class SplashActivity extends AppCompatActivity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-                SplashActivity.this.startActivity(new Intent(SplashActivity.this, LoginActivity.class));
+                SplashActivity.this.startActivity(new Intent(SplashActivity.this,LoginActivity.class));
                 //for checking googleMapActivity
                 //SplashActivity.this.startActivity(new Intent(SplashActivity.this,MapsActivity.class));
                 SplashActivity.this.finish();

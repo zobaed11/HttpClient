@@ -108,7 +108,12 @@ public class LoginActivity extends AppCompatActivity {
     @OnClick(R.id.btn_login)
     void login() {
 
-        String email = tilEmail.getEditText().getText().toString();
+        Intent intent = new Intent(LoginActivity.this,PatientMenuActivity2.class);
+        startActivity(intent);
+
+
+
+/*        String email = tilEmail.getEditText().getText().toString();
         String password = tilPassword.getEditText().getText().toString();
 
         tilEmail.setError(null);
@@ -149,7 +154,7 @@ public class LoginActivity extends AppCompatActivity {
                 }
             });
 
-        }
+        }*/
 
     }
 
