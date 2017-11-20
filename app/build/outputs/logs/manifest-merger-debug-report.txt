@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
-INJECTED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
-INJECTED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
-INJECTED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
 MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.0.aar/5544b46cd121f1bbac979af136d6d95b/AndroidManifest.xml:2:1-13:12
 MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.28.0.aar/768d7af321f3164f56503cfa616e65a0/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-login:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-login-4.28.0.aar/7ea5eb9982354b5e6fd172862c48b272/AndroidManifest.xml:21:1-31:12
@@ -24,6 +24,7 @@ MERGED from [com.google.android.gms:play-services-fitness:11.4.2] /home/c0030090
 MERGED from [com.google.android.gms:play-services-location:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-location-11.4.2.aar/89b63e9cf192412a226a33dee21395d7/AndroidManifest.xml:2:1-5:12
 MERGED from [com.felipecsl:gifimageview:2.1.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/gifimageview-2.1.0.aar/850d08a103b30edcb993b7361204b2f4/AndroidManifest.xml:2:1-12:12
 MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/31f7ab2c658ca81dae922a3f834841d5/AndroidManifest.xml:17:1-57:12
+MERGED from [com.android.support:multidex:1.0.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/93e2102465c14ffedfd61e84992e5bf3/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.android:facebook-places:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/accdf8e10d6d51b834cf136a2f74a1c6/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.28.0.aar/5e2ef9aa24975d44b66e6b08da76d6f6/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-messenger:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.28.0.aar/577133bf2271bab7cbfce615cbce3e42/AndroidManifest.xml:21:1-31:12
@@ -138,27 +139,27 @@ MERGED from [com.google.android.gms:play-services-wallet-license:11.4.2] /home/c
 MERGED from [com.google.android.gms:play-services-wearable-license:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-11.4.2.aar/ea018a9531ebf0293142d7dceb238070/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-location-license:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.4.2.aar/27030530e2c886a666df13711c490e98/AndroidManifest.xml:2:1-6:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3841dd60dfa2a3b547038ccbe490f2c5/AndroidManifest.xml:17:1-30:12
-INJECTED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
-INJECTED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
-INJECTED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
 	package
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:3:5-47
-		INJECTED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml
-		INJECTED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
-		INJECTED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
+		INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
-		INJECTED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
+		INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:5:5-43
-INJECTED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:5:5-43
-INJECTED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:5:5-43
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:5:5-43
+INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:5:5-43
+INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:5:5-43
 MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.0.aar/5544b46cd121f1bbac979af136d6d95b/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.0.aar/5544b46cd121f1bbac979af136d6d95b/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.28.0.aar/768d7af321f3164f56503cfa616e65a0/AndroidManifest.xml:24:5-26:41
@@ -199,6 +200,8 @@ MERGED from [com.felipecsl:gifimageview:2.1.0] /home/c00300901/.gradle/caches/tr
 MERGED from [com.felipecsl:gifimageview:2.1.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/gifimageview-2.1.0.aar/850d08a103b30edcb993b7361204b2f4/AndroidManifest.xml:8:5-43
 MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/31f7ab2c658ca81dae922a3f834841d5/AndroidManifest.xml:20:5-44
 MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/31f7ab2c658ca81dae922a3f834841d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/93e2102465c14ffedfd61e84992e5bf3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/93e2102465c14ffedfd61e84992e5bf3/AndroidManifest.xml:20:5-43
 MERGED from [com.facebook.android:facebook-places:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/accdf8e10d6d51b834cf136a2f74a1c6/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-places:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/accdf8e10d6d51b834cf136a2f74a1c6/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.28.0.aar/5e2ef9aa24975d44b66e6b08da76d6f6/AndroidManifest.xml:24:5-26:41
@@ -427,20 +430,20 @@ MERGED from [com.google.android.gms:play-services-location-license:11.4.2] /home
 MERGED from [com.google.android.gms:play-services-location-license:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.4.2.aar/27030530e2c886a666df13711c490e98/AndroidManifest.xml:4:5-43
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3841dd60dfa2a3b547038ccbe490f2c5/AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3841dd60dfa2a3b547038ccbe490f2c5/AndroidManifest.xml:20:5-22:41
-INJECTED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:5:5-43
-INJECTED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:5:5-43
+INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:5:5-43
+INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:5:5-43
 	tools:overrideLibrary
 		ADDED from [com.google.android.gms:play-services-ads:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.4.2.aar/48c2b2e70feaf625cb8dded44f9a5051/AndroidManifest.xml:17:42-92
 	android:targetSdkVersion
-		INJECTED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:5:5-43
-		INJECTED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:5:5-43
+		INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:5:15-40
-		INJECTED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml
-		INJECTED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:5:15-40
+		INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:7:5-67
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:7:5-67
 MERGED from [com.google.android.gms:play-services-ads-lite:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.4.2.aar/0c368f822f84891c3b3275734856f0cf/AndroidManifest.xml:19:5-66
 MERGED from [com.google.android.gms:play-services-ads-lite:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.4.2.aar/0c368f822f84891c3b3275734856f0cf/AndroidManifest.xml:19:5-66
 MERGED from [com.google.android.gms:play-services-analytics:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.4.2.aar/4f58b6db9428e8ff70e5ae9ef12db950/AndroidManifest.xml:20:5-66
@@ -466,9 +469,9 @@ MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /home/c00300901
 MERGED from [com.google.firebase:firebase-iid:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/727640d769e86afffdc8497a9f932ff8/AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-iid:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/727640d769e86afffdc8497a9f932ff8/AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:7:22-64
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:7:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:8:5-79
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:8:5-79
 MERGED from [com.google.android.gms:play-services-ads-lite:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.4.2.aar/0c368f822f84891c3b3275734856f0cf/AndroidManifest.xml:20:5-78
 MERGED from [com.google.android.gms:play-services-ads-lite:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.4.2.aar/0c368f822f84891c3b3275734856f0cf/AndroidManifest.xml:20:5-78
 MERGED from [com.google.android.gms:play-services-analytics:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.4.2.aar/4f58b6db9428e8ff70e5ae9ef12db950/AndroidManifest.xml:21:5-78
@@ -488,49 +491,49 @@ MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /home/c00300901
 MERGED from [com.google.firebase:firebase-iid:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/727640d769e86afffdc8497a9f932ff8/AndroidManifest.xml:19:5-78
 MERGED from [com.google.firebase:firebase-iid:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/727640d769e86afffdc8497a9f932ff8/AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:8:22-76
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:8:22-76
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:9:5-79
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:9:5-79
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:9:22-76
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:9:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:10:5-81
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:10:5-81
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:10:22-78
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:10:22-78
 uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:11:5-98
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:11:5-98
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:11:22-95
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:11:22-95
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:12:5-81
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:12:5-81
 MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/31f7ab2c658ca81dae922a3f834841d5/AndroidManifest.xml:24:5-81
 MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/31f7ab2c658ca81dae922a3f834841d5/AndroidManifest.xml:24:5-81
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:12:22-78
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:12:22-78
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:13:5-75
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:13:5-75
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:13:22-72
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:13:22-72
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:14:5-80
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:14:5-80
 MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/31f7ab2c658ca81dae922a3f834841d5/AndroidManifest.xml:23:5-80
 MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/31f7ab2c658ca81dae922a3f834841d5/AndroidManifest.xml:23:5-80
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:14:22-77
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:14:22-77
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:17:5-71
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:17:5-71
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:17:22-68
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:17:22-68
 uses-permission#android.permission.READ_PROFILE
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:18:5-71
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:18:5-71
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:18:22-68
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:18:22-68
 uses-permission#android.permission.READ_CONTACTS
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:19:5-72
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:19:5-72
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:19:22-69
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:19:22-69
 application
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:21:5-68:19
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:21:5-68:19
 MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.0.aar/5544b46cd121f1bbac979af136d6d95b/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.0.aar/5544b46cd121f1bbac979af136d6d95b/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.28.0.aar/768d7af321f3164f56503cfa616e65a0/AndroidManifest.xml:28:5-29:19
@@ -752,109 +755,109 @@ MERGED from [com.google.android.gms:play-services-location-license:11.4.2] /home
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3841dd60dfa2a3b547038ccbe490f2c5/AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3841dd60dfa2a3b547038ccbe490f2c5/AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:27:9-35
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:27:9-35
 	android:label
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:25:9-41
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:25:9-41
 	android:roundIcon
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:26:9-54
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:26:9-54
 	android:icon
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:24:9-43
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:24:9-43
 	android:allowBackup
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:23:9-35
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:23:9-35
 	android:theme
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:28:9-40
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:28:9-40
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:22:9-30
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:22:9-30
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:29:9-31:55
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:29:9-31:55
 	android:value
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:31:13-52
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:31:13-52
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:30:13-58
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:30:13-58
 meta-data#com.google.android.geo.API_KEY
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:32:9-34:55
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:32:9-34:55
 	android:value
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:34:13-52
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:34:13-52
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:33:13-58
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:33:13-58
 activity#com.hms.mohamedseliem.httpclient.SplashActivity
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:36:9-45:20
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:36:9-45:20
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:36:19-49
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:36:19-49
 intent-filter#android.intent.action.MAIN+android.intent.category.BROWSABLE+android.intent.category.LAUNCHER
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:37:13-44:29
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:37:13-44:29
 action#android.intent.action.MAIN
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:38:17-69
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:38:17-69
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:38:25-66
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:38:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:40:17-77
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:40:17-77
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:40:27-74
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:40:27-74
 category#android.intent.category.BROWSABLE
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:41:17-78
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:41:17-78
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:41:27-75
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:41:27-75
 data
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:43:17-75
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:43:17-75
 	android:scheme
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:43:23-72
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:43:23-72
 activity#com.facebook.CustomTabActivity
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:46:9-48:39
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:46:9-48:39
 	android:exported
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:48:13-36
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:48:13-36
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:47:13-58
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:47:13-58
 activity#com.facebook.FacebookActivity
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:49:9-52:48
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:49:9-52:48
 MERGED from [com.facebook.android:facebook-common:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/4d479daf4bc4aa6c1fd83bc533c947b4/AndroidManifest.xml:29:9-32:66
 MERGED from [com.facebook.android:facebook-common:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/4d479daf4bc4aa6c1fd83bc533c947b4/AndroidManifest.xml:29:9-32:66
 	android:label
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:52:13-45
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:52:13-45
 	android:configChanges
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:51:13-96
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:51:13-96
 	android:theme
 		ADDED from [com.facebook.android:facebook-common:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/4d479daf4bc4aa6c1fd83bc533c947b4/AndroidManifest.xml:32:13-63
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:50:13-57
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:50:13-57
 activity#com.hms.mohamedseliem.httpclient.RegisterActivity
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:53:9-54
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:53:9-54
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:53:19-51
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:53:19-51
 activity#com.hms.mohamedseliem.httpclient.LoginActivity
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:54:9-60:20
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:54:9-60:20
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:54:19-48
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:54:19-48
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:55:13-59:29
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:55:13-59:29
 activity#com.hms.mohamedseliem.httpclient.PostActivity
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:61:9-50
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:61:9-50
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:61:19-47
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:61:19-47
 activity#com.hms.mohamedseliem.httpclient.GetPlace
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:62:9-46
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:62:9-46
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:62:19-43
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:62:19-43
 activity#com.hms.mohamedseliem.httpclient.AppointmentActivity
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:63:9-57
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:63:9-57
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:63:19-54
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:63:19-54
 activity#com.hms.mohamedseliem.httpclient.NeedDoctorActivity
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:64:9-56
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:64:9-56
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:64:19-53
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:64:19-53
 activity#com.hms.mohamedseliem.httpclient.NeedAdminActivity
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:65:9-55
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:65:9-55
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:65:19-52
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:65:19-52
 activity#com.hms.mohamedseliem.httpclient.NeedHospitalActivity
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:66:9-58
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:66:9-58
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:66:19-55
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:66:19-55
 activity#com.hms.mohamedseliem.httpclient.PatientMenuActivity2
-ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:67:9-67
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:67:9-67
 	android:name
-		ADDED from /home/c00300901/android project/Reserves/HttpClient-master/app/src/main/AndroidManifest.xml:67:19-55
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:67:19-55
 activity#com.facebook.CustomTabMainActivity
 ADDED from [com.facebook.android:facebook-common:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/4d479daf4bc4aa6c1fd83bc533c947b4/AndroidManifest.xml:33:9-71
 	android:name

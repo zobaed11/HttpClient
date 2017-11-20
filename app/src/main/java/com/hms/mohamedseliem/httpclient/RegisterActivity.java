@@ -64,7 +64,7 @@ public class RegisterActivity extends AppCompatActivity {
     }
 
     @OnClick(R.id.btn_register)
-    void register(){
+    public void register(){
 
         String name = tilName.getEditText().getText().toString();
         String email = tilEmail.getEditText().getText().toString();

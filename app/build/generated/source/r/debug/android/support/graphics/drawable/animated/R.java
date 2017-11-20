@@ -67,40 +67,40 @@ public final class R {
         public static final int action_container = 0x7f090014;
         public static final int action_divider = 0x7f090016;
         public static final int action_image = 0x7f090017;
-        public static final int action_text = 0x7f09001d;
-        public static final int actions = 0x7f09001e;
-        public static final int async = 0x7f09002f;
-        public static final int blocking = 0x7f090037;
-        public static final int chronometer = 0x7f090065;
-        public static final int forever = 0x7f09009d;
-        public static final int icon = 0x7f0900ad;
-        public static final int icon_group = 0x7f0900ae;
-        public static final int info = 0x7f0900b5;
-        public static final int italic = 0x7f0900bd;
-        public static final int line1 = 0x7f0900cb;
-        public static final int line3 = 0x7f0900cc;
-        public static final int normal = 0x7f0900fd;
-        public static final int notification_background = 0x7f0900fe;
-        public static final int notification_main_column = 0x7f0900ff;
-        public static final int notification_main_column_container = 0x7f090100;
-        public static final int right_icon = 0x7f09011d;
-        public static final int right_side = 0x7f09011e;
-        public static final int tag_transition_group = 0x7f090154;
-        public static final int text = 0x7f090157;
-        public static final int text2 = 0x7f090159;
-        public static final int time = 0x7f090165;
-        public static final int title = 0x7f090166;
+        public static final int action_text = 0x7f09001e;
+        public static final int actions = 0x7f09001f;
+        public static final int async = 0x7f090030;
+        public static final int blocking = 0x7f090038;
+        public static final int chronometer = 0x7f090066;
+        public static final int forever = 0x7f09009e;
+        public static final int icon = 0x7f0900ae;
+        public static final int icon_group = 0x7f0900af;
+        public static final int info = 0x7f0900b6;
+        public static final int italic = 0x7f0900be;
+        public static final int line1 = 0x7f0900cc;
+        public static final int line3 = 0x7f0900cd;
+        public static final int normal = 0x7f0900ff;
+        public static final int notification_background = 0x7f090100;
+        public static final int notification_main_column = 0x7f090101;
+        public static final int notification_main_column_container = 0x7f090102;
+        public static final int right_icon = 0x7f09011f;
+        public static final int right_side = 0x7f090120;
+        public static final int tag_transition_group = 0x7f090156;
+        public static final int text = 0x7f090159;
+        public static final int text2 = 0x7f09015b;
+        public static final int time = 0x7f09016f;
+        public static final int title = 0x7f090170;
     }
     public static final class integer {
         public static final int status_bar_notification_info_maxnum = 0x7f0a000e;
     }
     public static final class layout {
-        public static final int notification_action = 0x7f0c004e;
-        public static final int notification_action_tombstone = 0x7f0c004f;
-        public static final int notification_template_custom_big = 0x7f0c0056;
-        public static final int notification_template_icon_group = 0x7f0c0057;
-        public static final int notification_template_part_chronometer = 0x7f0c005b;
-        public static final int notification_template_part_time = 0x7f0c005c;
+        public static final int notification_action = 0x7f0c004f;
+        public static final int notification_action_tombstone = 0x7f0c0050;
+        public static final int notification_template_custom_big = 0x7f0c0057;
+        public static final int notification_template_icon_group = 0x7f0c0058;
+        public static final int notification_template_part_chronometer = 0x7f0c005c;
+        public static final int notification_template_part_time = 0x7f0c005d;
     }
     public static final class string {
         public static final int status_bar_notification_info_overflow = 0x7f0f00bc;
