@@ -17,11 +17,11 @@ Setup is straightforward, it is similar to every other Android Application.
  
 ## Screen Shots
 
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/MohamedSeliem/HttpClient/blob/master/app/src/main/res/screenshots/Picture1.png)
+![alt text](https://github.com/MohamedSeliem/HttpClient/blob/master/app/src/main/res/screenshots/Picture2.png)
+![alt text](https://github.com/MohamedSeliem/HttpClient/blob/master/app/src/main/res/screenshots/Picture3.png)
+![alt text](https://github.com/MohamedSeliem/HttpClient/blob/master/app/src/main/res/screenshots/Picture4.png)
+![alt text](https://github.com/MohamedSeliem/HttpClient/blob/master/app/src/main/res/screenshots/Picture5.png)
 
 ## Collaborators
 
