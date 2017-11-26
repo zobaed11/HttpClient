@@ -62,9 +62,10 @@
         <activity android:name=".GetPlace" />
         <activity android:name=".AppointmentActivity" />
         <activity android:name=".NeedDoctorActivity" />
-        <activity android:name=".NeedAdminActivity" />
-        <activity android:name=".NeedHospitalActivity" />
-        <activity android:name=".PatientMenuActivity2"></activity>
+        <activity android:name=".AboutUS" />
+        <activity android:name=".PrivacyPolicy" />
+        <activity android:name=".PatientMenuActivity"
+            android:theme="@style/Theme.Design.NoActionBar"></activity>
     </application>
 
 </manifest>

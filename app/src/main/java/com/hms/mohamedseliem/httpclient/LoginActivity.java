@@ -5,7 +5,6 @@ import android.support.design.widget.TextInputLayout;
 import android.support.transition.TransitionManager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.util.Patterns;
 import android.view.View;
 import android.widget.LinearLayout;
@@ -25,9 +24,7 @@ import butterknife.ButterKnife;
 import butterknife.OnClick;
 import okhttp3.ResponseBody;
 import retrofit2.Call;
-import retrofit2.Callback;
-import retrofit2.Response;
-import retrofit2.http.POST;
+
 import com.hms.mohamedseliem.httpclient.entities.AccessToken;
 import com.hms.mohamedseliem.httpclient.entities.ApiError;
 import com.hms.mohamedseliem.httpclient.network.ApiService;
@@ -108,7 +105,7 @@ public class LoginActivity extends AppCompatActivity {
     @OnClick(R.id.btn_login)
     void login() {
 
-        Intent intent = new Intent(LoginActivity.this,PatientMenuActivity2.class);
+        Intent intent = new Intent(LoginActivity.this,PatientMenuActivity.class);
         startActivity(intent);
 
 

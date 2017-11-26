@@ -14,7 +14,7 @@ import java.lang.Override;
 public class PostActivity_ViewBinding implements Unbinder {
   private PostActivity target;
 
-  private View view2131296325;
+  private View view2131296328;
 
   @UiThread
   public PostActivity_ViewBinding(PostActivity target) {
@@ -28,7 +28,7 @@ public class PostActivity_ViewBinding implements Unbinder {
     View view;
     target.title = Utils.findRequiredViewAsType(source, R.id.post_title, "field 'title'", TextView.class);
     view = Utils.findRequiredView(source, R.id.btn_posts, "method 'getPosts'");
-    view2131296325 = view;
+    view2131296328 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -46,7 +46,7 @@ public class PostActivity_ViewBinding implements Unbinder {
 
     target.title = null;
 
-    view2131296325.setOnClickListener(null);
-    view2131296325 = null;
+    view2131296328.setOnClickListener(null);
+    view2131296328 = null;
   }
 }

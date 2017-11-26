@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
-INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
-INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
-INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-71:12
 MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.0.aar/5544b46cd121f1bbac979af136d6d95b/AndroidManifest.xml:2:1-13:12
 MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.28.0.aar/768d7af321f3164f56503cfa616e65a0/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-login:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-login-4.28.0.aar/7ea5eb9982354b5e6fd172862c48b272/AndroidManifest.xml:21:1-31:12
@@ -25,14 +25,6 @@ MERGED from [com.google.android.gms:play-services-location:11.4.2] /home/c003009
 MERGED from [com.felipecsl:gifimageview:2.1.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/gifimageview-2.1.0.aar/850d08a103b30edcb993b7361204b2f4/AndroidManifest.xml:2:1-12:12
 MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/31f7ab2c658ca81dae922a3f834841d5/AndroidManifest.xml:17:1-57:12
 MERGED from [com.android.support:multidex:1.0.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/93e2102465c14ffedfd61e84992e5bf3/AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.android:facebook-places:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/accdf8e10d6d51b834cf136a2f74a1c6/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.28.0.aar/5e2ef9aa24975d44b66e6b08da76d6f6/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-messenger:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.28.0.aar/577133bf2271bab7cbfce615cbce3e42/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-core:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/cd0f3245dc267d7f4afd8e85fd870fa5/AndroidManifest.xml:21:1-45:12
-MERGED from [com.android.support:cardview-v7:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/415f6c7aa81ff87ece15194a9ad4e395/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:customtabs:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/a5bc77bfaa593cb282d2f23d906f1de2/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:recyclerview-v7:27.0.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.1.aar/dca7a219109467d9f9e10b2bb2c18be2/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:27.0.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/transition-27.0.1.aar/c1deb45988a43ede9be024dbfa25b16d/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-ads:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.4.2.aar/48c2b2e70feaf625cb8dded44f9a5051/AndroidManifest.xml:16:1-18:12
 MERGED from [com.google.android.gms:play-services-ads-lite:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.4.2.aar/0c368f822f84891c3b3275734856f0cf/AndroidManifest.xml:16:1-27:12
 MERGED from [com.google.android.gms:play-services-analytics:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.4.2.aar/4f58b6db9428e8ff70e5ae9ef12db950/AndroidManifest.xml:16:1-33:12
@@ -80,6 +72,14 @@ MERGED from [com.google.android.gms:play-services-gass:11.4.2] /home/c00300901/.
 MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.4.2.aar/cb8b41bc0dd04824714dc3d0054d699b/AndroidManifest.xml:2:1-5:12
 MERGED from [com.google.android.gms:play-services-basement:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.4.2.aar/d26a25c00b92e6974eae3a6da8268686/AndroidManifest.xml:16:1-23:12
 MERGED from [com.android.support:support-v4:27.0.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.1.aar/0256104ecadc12629fe2af40d059a221/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-places:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/accdf8e10d6d51b834cf136a2f74a1c6/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.28.0.aar/5e2ef9aa24975d44b66e6b08da76d6f6/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.28.0.aar/577133bf2271bab7cbfce615cbce3e42/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/cd0f3245dc267d7f4afd8e85fd870fa5/AndroidManifest.xml:21:1-45:12
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/415f6c7aa81ff87ece15194a9ad4e395/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:customtabs:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/a5bc77bfaa593cb282d2f23d906f1de2/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:27.0.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.1.aar/dca7a219109467d9f9e10b2bb2c18be2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/transition-27.0.1.aar/c1deb45988a43ede9be024dbfa25b16d/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.0.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/9457e7a5706475f5fb16c10ec4390fb1/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.0.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/4f0826488b0d0f6f08e73615c4679b8c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.0.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/119f0ec9a713f5a60f2c0a30e7e35469/AndroidManifest.xml:17:1-22:12
@@ -139,20 +139,20 @@ MERGED from [com.google.android.gms:play-services-wallet-license:11.4.2] /home/c
 MERGED from [com.google.android.gms:play-services-wearable-license:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-11.4.2.aar/ea018a9531ebf0293142d7dceb238070/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-location-license:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.4.2.aar/27030530e2c886a666df13711c490e98/AndroidManifest.xml:2:1-6:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3841dd60dfa2a3b547038ccbe490f2c5/AndroidManifest.xml:17:1-30:12
-INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
-INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
-INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-71:12
 	package
 		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:3:5-47
 		INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml
 		INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml
-		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-71:12
 		INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml
-		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-70:12
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:1-71:12
 		INJECTED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:2:11-69
@@ -202,22 +202,6 @@ MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /home/c00300901/.
 MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/31f7ab2c658ca81dae922a3f834841d5/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:multidex:1.0.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/93e2102465c14ffedfd61e84992e5bf3/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:multidex:1.0.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/93e2102465c14ffedfd61e84992e5bf3/AndroidManifest.xml:20:5-43
-MERGED from [com.facebook.android:facebook-places:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/accdf8e10d6d51b834cf136a2f74a1c6/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-places:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/accdf8e10d6d51b834cf136a2f74a1c6/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.28.0.aar/5e2ef9aa24975d44b66e6b08da76d6f6/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.28.0.aar/5e2ef9aa24975d44b66e6b08da76d6f6/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-messenger:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.28.0.aar/577133bf2271bab7cbfce615cbce3e42/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-messenger:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.28.0.aar/577133bf2271bab7cbfce615cbce3e42/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-core:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/cd0f3245dc267d7f4afd8e85fd870fa5/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-core:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/cd0f3245dc267d7f4afd8e85fd870fa5/AndroidManifest.xml:24:5-26:41
-MERGED from [com.android.support:cardview-v7:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/415f6c7aa81ff87ece15194a9ad4e395/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:cardview-v7:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/415f6c7aa81ff87ece15194a9ad4e395/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:customtabs:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/a5bc77bfaa593cb282d2f23d906f1de2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/a5bc77bfaa593cb282d2f23d906f1de2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.0.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.1.aar/dca7a219109467d9f9e10b2bb2c18be2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.0.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.1.aar/dca7a219109467d9f9e10b2bb2c18be2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.0.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/transition-27.0.1.aar/c1deb45988a43ede9be024dbfa25b16d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.0.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/transition-27.0.1.aar/c1deb45988a43ede9be024dbfa25b16d/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.4.2.aar/48c2b2e70feaf625cb8dded44f9a5051/AndroidManifest.xml:17:5-94
 MERGED from [com.google.android.gms:play-services-ads:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.4.2.aar/48c2b2e70feaf625cb8dded44f9a5051/AndroidManifest.xml:17:5-94
 MERGED from [com.google.android.gms:play-services-ads-lite:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.4.2.aar/0c368f822f84891c3b3275734856f0cf/AndroidManifest.xml:22:5-43
@@ -312,6 +296,22 @@ MERGED from [com.google.android.gms:play-services-basement:11.4.2] /home/c003009
 MERGED from [com.google.android.gms:play-services-basement:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.4.2.aar/d26a25c00b92e6974eae3a6da8268686/AndroidManifest.xml:17:5-43
 MERGED from [com.android.support:support-v4:27.0.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.1.aar/0256104ecadc12629fe2af40d059a221/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:27.0.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.1.aar/0256104ecadc12629fe2af40d059a221/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/accdf8e10d6d51b834cf136a2f74a1c6/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/accdf8e10d6d51b834cf136a2f74a1c6/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.28.0.aar/5e2ef9aa24975d44b66e6b08da76d6f6/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.28.0.aar/5e2ef9aa24975d44b66e6b08da76d6f6/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.28.0.aar/577133bf2271bab7cbfce615cbce3e42/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.28.0.aar/577133bf2271bab7cbfce615cbce3e42/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/cd0f3245dc267d7f4afd8e85fd870fa5/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/cd0f3245dc267d7f4afd8e85fd870fa5/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/415f6c7aa81ff87ece15194a9ad4e395/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/415f6c7aa81ff87ece15194a9ad4e395/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/a5bc77bfaa593cb282d2f23d906f1de2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/a5bc77bfaa593cb282d2f23d906f1de2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.1.aar/dca7a219109467d9f9e10b2bb2c18be2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.1.aar/dca7a219109467d9f9e10b2bb2c18be2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/transition-27.0.1.aar/c1deb45988a43ede9be024dbfa25b16d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/transition-27.0.1.aar/c1deb45988a43ede9be024dbfa25b16d/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.0.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/9457e7a5706475f5fb16c10ec4390fb1/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.0.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/9457e7a5706475f5fb16c10ec4390fb1/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.0.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/4f0826488b0d0f6f08e73615c4679b8c/AndroidManifest.xml:20:5-44
@@ -533,7 +533,7 @@ ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManif
 	android:name
 		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:19:22-69
 application
-ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:21:5-68:19
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:21:5-69:19
 MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.0.aar/5544b46cd121f1bbac979af136d6d95b/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.0.aar/5544b46cd121f1bbac979af136d6d95b/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.28.0.aar/768d7af321f3164f56503cfa616e65a0/AndroidManifest.xml:28:5-29:19
@@ -566,18 +566,6 @@ MERGED from [com.felipecsl:gifimageview:2.1.0] /home/c00300901/.gradle/caches/tr
 MERGED from [com.felipecsl:gifimageview:2.1.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/gifimageview-2.1.0.aar/850d08a103b30edcb993b7361204b2f4/AndroidManifest.xml:10:5-20
 MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/31f7ab2c658ca81dae922a3f834841d5/AndroidManifest.xml:26:5-55:19
 MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/31f7ab2c658ca81dae922a3f834841d5/AndroidManifest.xml:26:5-55:19
-MERGED from [com.facebook.android:facebook-places:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/accdf8e10d6d51b834cf136a2f74a1c6/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-places:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/accdf8e10d6d51b834cf136a2f74a1c6/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.28.0.aar/5e2ef9aa24975d44b66e6b08da76d6f6/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.28.0.aar/5e2ef9aa24975d44b66e6b08da76d6f6/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-messenger:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.28.0.aar/577133bf2271bab7cbfce615cbce3e42/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-messenger:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.28.0.aar/577133bf2271bab7cbfce615cbce3e42/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-core:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/cd0f3245dc267d7f4afd8e85fd870fa5/AndroidManifest.xml:28:5-43:19
-MERGED from [com.facebook.android:facebook-core:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/cd0f3245dc267d7f4afd8e85fd870fa5/AndroidManifest.xml:28:5-43:19
-MERGED from [com.android.support:cardview-v7:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/415f6c7aa81ff87ece15194a9ad4e395/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:cardview-v7:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/415f6c7aa81ff87ece15194a9ad4e395/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:customtabs:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/a5bc77bfaa593cb282d2f23d906f1de2/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:customtabs:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/a5bc77bfaa593cb282d2f23d906f1de2/AndroidManifest.xml:26:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.4.2.aar/0c368f822f84891c3b3275734856f0cf/AndroidManifest.xml:23:5-26:19
 MERGED from [com.google.android.gms:play-services-ads-lite:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.4.2.aar/0c368f822f84891c3b3275734856f0cf/AndroidManifest.xml:23:5-26:19
 MERGED from [com.google.android.gms:play-services-analytics:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.4.2.aar/4f58b6db9428e8ff70e5ae9ef12db950/AndroidManifest.xml:26:5-31:19
@@ -650,6 +638,18 @@ MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /home/c00300901/
 MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.4.2.aar/cb8b41bc0dd04824714dc3d0054d699b/AndroidManifest.xml:4:5-19
 MERGED from [com.google.android.gms:play-services-basement:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.4.2.aar/d26a25c00b92e6974eae3a6da8268686/AndroidManifest.xml:19:5-21:19
 MERGED from [com.google.android.gms:play-services-basement:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.4.2.aar/d26a25c00b92e6974eae3a6da8268686/AndroidManifest.xml:19:5-21:19
+MERGED from [com.facebook.android:facebook-places:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/accdf8e10d6d51b834cf136a2f74a1c6/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/accdf8e10d6d51b834cf136a2f74a1c6/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.28.0.aar/5e2ef9aa24975d44b66e6b08da76d6f6/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.28.0.aar/5e2ef9aa24975d44b66e6b08da76d6f6/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.28.0.aar/577133bf2271bab7cbfce615cbce3e42/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.28.0.aar/577133bf2271bab7cbfce615cbce3e42/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/cd0f3245dc267d7f4afd8e85fd870fa5/AndroidManifest.xml:28:5-43:19
+MERGED from [com.facebook.android:facebook-core:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/cd0f3245dc267d7f4afd8e85fd870fa5/AndroidManifest.xml:28:5-43:19
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/415f6c7aa81ff87ece15194a9ad4e395/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/415f6c7aa81ff87ece15194a9ad4e395/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/a5bc77bfaa593cb282d2f23d906f1de2/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/a5bc77bfaa593cb282d2f23d906f1de2/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:palette-v7:25.2.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/palette-v7-25.2.0.aar/dd86695865cd7393e25f52b8f589ceff/AndroidManifest.xml:22:5-23:19
 MERGED from [com.android.support:palette-v7:25.2.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/palette-v7-25.2.0.aar/dd86695865cd7393e25f52b8f589ceff/AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.android.gms:play-services-ads-license:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-11.4.2.aar/6eac1fda21711c4578f22368465bcb7c/AndroidManifest.xml:5:5-20
@@ -846,18 +846,20 @@ activity#com.hms.mohamedseliem.httpclient.NeedDoctorActivity
 ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:64:9-56
 	android:name
 		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:64:19-53
-activity#com.hms.mohamedseliem.httpclient.NeedAdminActivity
-ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:65:9-55
+activity#com.hms.mohamedseliem.httpclient.AboutUS
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:65:9-45
 	android:name
-		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:65:19-52
-activity#com.hms.mohamedseliem.httpclient.NeedHospitalActivity
-ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:66:9-58
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:65:19-42
+activity#com.hms.mohamedseliem.httpclient.PrivacyPolicy
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:66:9-51
 	android:name
-		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:66:19-55
-activity#com.hms.mohamedseliem.httpclient.PatientMenuActivity2
-ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:67:9-67
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:66:19-48
+activity#com.hms.mohamedseliem.httpclient.PatientMenuActivity
+ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:67:9-68:72
+	android:theme
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:68:13-60
 	android:name
-		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:67:19-55
+		ADDED from /home/c00300901/Downloads/HttpClient-master/app/src/main/AndroidManifest.xml:67:19-54
 activity#com.facebook.CustomTabMainActivity
 ADDED from [com.facebook.android:facebook-common:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/4d479daf4bc4aa6c1fd83bc533c947b4/AndroidManifest.xml:33:9-71
 	android:name
@@ -916,22 +918,6 @@ ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /home/c00300901/.g
 		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/31f7ab2c658ca81dae922a3f834841d5/AndroidManifest.xml:53:13-76
 	android:name
 		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.1.aar/31f7ab2c658ca81dae922a3f834841d5/AndroidManifest.xml:49:13-93
-provider#com.facebook.internal.FacebookInitProvider
-ADDED from [com.facebook.android:facebook-core:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/cd0f3245dc267d7f4afd8e85fd870fa5/AndroidManifest.xml:39:9-42:40
-	android:authorities
-		ADDED from [com.facebook.android:facebook-core:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/cd0f3245dc267d7f4afd8e85fd870fa5/AndroidManifest.xml:41:13-72
-	android:exported
-		ADDED from [com.facebook.android:facebook-core:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/cd0f3245dc267d7f4afd8e85fd870fa5/AndroidManifest.xml:42:13-37
-	android:name
-		ADDED from [com.facebook.android:facebook-core:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/cd0f3245dc267d7f4afd8e85fd870fa5/AndroidManifest.xml:40:13-70
-meta-data#android.support.VERSION
-ADDED from [com.android.support:cardview-v7:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/415f6c7aa81ff87ece15194a9ad4e395/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:customtabs:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/a5bc77bfaa593cb282d2f23d906f1de2/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:customtabs:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/a5bc77bfaa593cb282d2f23d906f1de2/AndroidManifest.xml:22:5-24:34
-	android:value
-		ADDED from [com.android.support:cardview-v7:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/415f6c7aa81ff87ece15194a9ad4e395/AndroidManifest.xml:24:9-31
-	android:name
-		ADDED from [com.android.support:cardview-v7:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/415f6c7aa81ff87ece15194a9ad4e395/AndroidManifest.xml:23:9-47
 activity#com.google.android.gms.ads.AdActivity
 ADDED from [com.google.android.gms:play-services-ads-lite:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.4.2.aar/0c368f822f84891c3b3275734856f0cf/AndroidManifest.xml:25:9-257
 	android:exported
@@ -1200,6 +1186,22 @@ ADDED from [com.google.android.gms:play-services-basement:11.4.2] /home/c0030090
 		ADDED from [com.google.android.gms:play-services-basement:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.4.2.aar/d26a25c00b92e6974eae3a6da8268686/AndroidManifest.xml:20:66-119
 	android:name
 		ADDED from [com.google.android.gms:play-services-basement:11.4.2] /home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.4.2.aar/d26a25c00b92e6974eae3a6da8268686/AndroidManifest.xml:20:20-65
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/cd0f3245dc267d7f4afd8e85fd870fa5/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/cd0f3245dc267d7f4afd8e85fd870fa5/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/cd0f3245dc267d7f4afd8e85fd870fa5/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.28.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/cd0f3245dc267d7f4afd8e85fd870fa5/AndroidManifest.xml:40:13-70
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/415f6c7aa81ff87ece15194a9ad4e395/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/a5bc77bfaa593cb282d2f23d906f1de2/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/a5bc77bfaa593cb282d2f23d906f1de2/AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/415f6c7aa81ff87ece15194a9ad4e395/AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.1] /home/c00300901/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/415f6c7aa81ff87ece15194a9ad4e395/AndroidManifest.xml:23:9-47
 meta-data#android.arch.lifecycle.VERSION
 ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/c00300901/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3841dd60dfa2a3b547038ccbe490f2c5/AndroidManifest.xml:25:9-27:47
 	android:value
