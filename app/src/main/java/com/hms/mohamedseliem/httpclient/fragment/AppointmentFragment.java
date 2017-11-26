@@ -1,6 +1,9 @@
 package com.hms.mohamedseliem.httpclient.fragment;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -9,6 +12,10 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.hms.mohamedseliem.httpclient.R;
+import com.roomorama.caldroid.CaldroidFragment;
+
+import java.util.Calendar;
+import java.util.Date;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -59,6 +66,16 @@ public class AppointmentFragment extends Fragment{
             mParam1 = getArguments().getString(ARG_PARAM1);
             mParam2 = getArguments().getString(ARG_PARAM2);
         }
+        CaldroidFragment caldroidFragment = new CaldroidFragment();
+        Bundle args = new Bundle();
+        Calendar cal = Calendar.getInstance();
+        args.putInt(CaldroidFragment.MONTH, cal.get(Calendar.MONTH) + 1);
+        args.putInt(CaldroidFragment.YEAR, cal.get(Calendar.YEAR));
+        caldroidFragment.setArguments(args);
+        setCustomResourceForDates();
+        android.support.v4.app.FragmentTransaction t = getFragmentManager().beginTransaction();
+        t.replace(R.id.calendar1, caldroidFragment);
+        t.commit();
     }
 
     @Override
@@ -106,4 +123,54 @@ public class AppointmentFragment extends Fragment{
         // TODO: Update argument type and name
         void onFragmentInteraction(Uri uri);
     }
+    @SuppressLint("SimpleDateFormat")
+         private boolean undo = false;
+
+        private CaldroidFragment caldroidFragment;
+
+        private CaldroidFragment dialogCaldroidFragment;
+
+
+
+        private void setCustomResourceForDates() {
+
+            Calendar cal = Calendar.getInstance();
+
+
+
+            // Min date is last 7 days
+
+            cal.add(Calendar.DATE, -7);
+
+            Date blueDate = cal.getTime();
+
+
+
+            // Max date is next 7 days
+
+            cal = Calendar.getInstance();
+
+            cal.add(Calendar.DATE, 7);
+
+            Date greenDate = cal.getTime();
+
+
+
+            if (caldroidFragment != null) {
+
+                ColorDrawable blue = new ColorDrawable(getResources().getColor(R.color.blue));
+
+                ColorDrawable green = new ColorDrawable(Color.GREEN);
+
+                caldroidFragment.setBackgroundDrawableForDate(blue, blueDate);
+
+                caldroidFragment.setBackgroundDrawableForDate(green, greenDate);
+
+                caldroidFragment.setTextColorForDate(R.color.white, blueDate);
+
+                caldroidFragment.setTextColorForDate(R.color.white, greenDate);
+
+            }
+
+        }
 }

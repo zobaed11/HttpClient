@@ -21,7 +21,7 @@ public class LoginActivity_ViewBinding implements Unbinder {
 
   private View view2131296325;
 
-  private View view2131296425;
+  private View view2131296440;
 
   @UiThread
   public LoginActivity_ViewBinding(LoginActivity target) {
@@ -55,7 +55,7 @@ public class LoginActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.go_to_register, "method 'goToRegister'");
-    view2131296425 = view;
+    view2131296440 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -81,7 +81,7 @@ public class LoginActivity_ViewBinding implements Unbinder {
     view2131296323 = null;
     view2131296325.setOnClickListener(null);
     view2131296325 = null;
-    view2131296425.setOnClickListener(null);
-    view2131296425 = null;
+    view2131296440.setOnClickListener(null);
+    view2131296440 = null;
   }
 }

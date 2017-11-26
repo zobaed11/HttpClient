@@ -30,7 +30,7 @@
 
     <!-- Navigation Drawer menu labels -->
     <string name="nav_home">Home</string>
-    <string name="nav_photos">User Profile</string>
+    <string name="nav_photos">User Contacts</string>
     <string name="nav_movies">Appointments</string>
     <string name="nav_notifications">Maps</string>
     <string name="nav_settings">Notifications</string>
@@ -39,7 +39,7 @@
     <!-- Toolbar titles when navigation menu item is selected -->
     <string-array name="nav_item_activity_titles">
         <item>Home</item>
-        <item>User Profile</item>
+        <item>User Contacts</item>
         <item>Appointments</item>
         <item>Maps</item>
         <item>Notifications</item>

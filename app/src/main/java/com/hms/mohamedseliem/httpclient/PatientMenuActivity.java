@@ -55,7 +55,7 @@ public class PatientMenuActivity extends AppCompatActivity implements HomeFragme
     // urls to load navigation header background image
     // and profile image
     private static final String urlNavHeaderBg = "https://api.androidhive.info/images/nav-menu-header-bg.jpg";
-    private static final String urlProfileImg = "https://lh3.googleusercontent.com/eCtE_G34M9ygdkmOpYvCag1vBARCmZwnVS6rS5t4JLzJ6QgQSBquM0nuTsCpLhYbKljoyS-txg";
+    private static final String urlProfileImg = "http://hpcclab.org/wp-content/uploads/2016/06/zobaed-300x300.jpg";
 
     // index to identify current nav menu item
     public static int navItemIndex = 0;
