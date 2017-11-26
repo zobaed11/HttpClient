@@ -15,7 +15,7 @@ import com.hms.mohamedseliem.httpclient.TokenManager;
 
 public class RetrofitBuilder {
 
-    private static final String BASE_URL = "http://192.168.10.10/api/";
+    private static final String BASE_URL = "http://10.131.80.204:8000/api/";
 
     private final static OkHttpClient client = buildClient();
     private final static Retrofit retrofit = buildRetrofit(client);

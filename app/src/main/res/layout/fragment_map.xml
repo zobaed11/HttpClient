@@ -1,0 +1,131 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.hms.mohamedseliem.httpclient.fragment.MapFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <EditText
+
+            android:id="@+id/TF_location"
+
+            android:layout_width="290dp"
+
+            android:layout_height="45dp"
+
+            android:ems="10"
+
+            android:inputType="textPersonName"
+
+            android:text="Name"
+
+            android:layout_alignParentTop="true"
+            />
+
+
+
+        <Button
+
+            android:id="@+id/B_search"
+
+            android:layout_width="100dp"
+
+            android:layout_height="45dp"
+
+            android:text="Search"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/TF_location"
+            android:layout_toEndOf="@+id/TF_location" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/linearlayout"
+            android:orientation="horizontal"
+            android:layout_below="@+id/TF_location"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="16dp"
+            android:layout_marginEnd="16dp">
+
+            <Button
+
+                android:id="@+id/B_schools"
+
+                android:layout_width="wrap_content"
+
+                android:layout_height="wrap_content"
+
+                android:text="Schools"
+                android:visibility="invisible" />
+
+            <Button
+
+                android:id="@+id/B_hopistals"
+
+                android:layout_width="wrap_content"
+
+                android:layout_height="wrap_content"
+
+
+                android:text="Hospitals" />
+
+            <Button
+
+                android:id="@+id/B_restaurants"
+
+                android:layout_width="wrap_content"
+
+                android:layout_height="wrap_content"
+                android:text="Restautants"
+                android:visibility="invisible" />
+
+
+        </LinearLayout>
+
+        <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+
+            xmlns:map="http://schemas.android.com/apk/res-auto"
+
+            xmlns:tools="http://schemas.android.com/tools"
+
+            android:id="@+id/map"
+
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content"
+
+            tools:context="com.hms.mohamedseliem.httpclient.fragment.MapFragment"
+
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="161dp"
+            android:layout_below="@+id/linearlayout" />
+
+
+        <Button
+
+            android:id="@+id/B_to"
+
+            android:layout_width="wrap_content"
+
+            android:layout_height="wrap_content"
+
+            android:layout_alignParentBottom="true"
+
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="51dp"
+
+            android:text="Log Out" />
+
+
+
+
+    </RelativeLayout>
+
+</FrameLayout>
