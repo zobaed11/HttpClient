@@ -1,4 +1,4 @@
-#Sun Nov 26 13:08:01 CST 2017
-base.0=C\:\\HttpClient\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+#Sun Nov 26 22:07:30 CST 2017
+base.0=/home/c00300901/Downloads/HttpClient-master/app/build/intermediates/transforms/dexMerger/debug/4
 path.0=classes.dex
 renamed.0=classes.dex

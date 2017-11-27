@@ -1,25 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\home\\c00300901\\Downloads\\HttpClient-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+            "outputFile": "/home/c00300901/Downloads/HttpClient-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-v13/values-sw720dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\home\\c00300901\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\132ed1edb70af442df03640d0999fec2\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,124",
-                        "endColumns": "68,68",
-                        "endOffsets": "119,188"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\HttpClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\Mohamed Seliem\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\35f59e5139bd612319eea5a3218e23e1\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "source": "/home/c00300901/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/227b8b3c8021da9afc5082c29fabe43f/res/values-sw720dp-v13/values-sw720dp-v13.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

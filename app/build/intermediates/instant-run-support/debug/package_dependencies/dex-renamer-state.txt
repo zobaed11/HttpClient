@@ -1,7 +1,7 @@
-#Sun Nov 26 12:36:53 CST 2017
-base.0=C\:\\HttpClient\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+#Sun Nov 26 22:05:56 CST 2017
+base.0=/home/c00300901/Downloads/HttpClient-master/app/build/intermediates/transforms/dexMerger/debug/10
 path.1=classes2.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=C\:\\HttpClient\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+base.1=/home/c00300901/Downloads/HttpClient-master/app/build/intermediates/transforms/dexMerger/debug/10

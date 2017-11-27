@@ -1,26 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\home\\c00300901\\Downloads\\HttpClient-master\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v17\\values-v17.xml",
+            "outputFile": "/home/c00300901/Downloads/HttpClient-master/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v17/values-v17.xml",
             "map": [
                 {
-                    "source": "C:\\home\\c00300901\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\cfbdb814ad9e6d989d5cd4370809c9dd\\res\\values-v17\\values-v17.xml",
-                    "from": {
-                        "startLines": "2,5,9,12,15,18,22,26,29,32,35,39,42,46",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,228,456,614,764,936,1164,1406,1577,1751,1920,2193,2393,2597",
-                        "endLines": "4,8,11,14,17,21,25,28,31,34,38,41,45,49",
-                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12",
-                        "endOffsets": "223,451,609,759,931,1159,1401,1572,1746,1915,2188,2388,2592,2921"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\HttpClient\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v17\\values-v17.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\Mohamed Seliem\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\87d9355cf2798b8b1b4665ab99e0a9e4\\res\\values-v17\\values-v17.xml",
+                    "source": "/home/c00300901/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/439fbcb08b6cdc57722b2c76ef8c8201/res/values-v17/values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,26,29,32,35,39,42,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",

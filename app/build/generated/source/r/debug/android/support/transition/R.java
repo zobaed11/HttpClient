@@ -93,13 +93,13 @@ public final class R {
         public static final int tag_transition_group = 0x7f09017f;
         public static final int text = 0x7f090182;
         public static final int text2 = 0x7f090184;
-        public static final int time = 0x7f090199;
-        public static final int title = 0x7f09019a;
-        public static final int transition_current_scene = 0x7f0901a2;
-        public static final int transition_layout_save = 0x7f0901a3;
-        public static final int transition_position = 0x7f0901a4;
-        public static final int transition_scene_layoutid_cache = 0x7f0901a5;
-        public static final int transition_transform = 0x7f0901a6;
+        public static final int time = 0x7f09019b;
+        public static final int title = 0x7f09019c;
+        public static final int transition_current_scene = 0x7f0901a4;
+        public static final int transition_layout_save = 0x7f0901a5;
+        public static final int transition_position = 0x7f0901a6;
+        public static final int transition_scene_layoutid_cache = 0x7f0901a7;
+        public static final int transition_transform = 0x7f0901a8;
     }
     public static final class integer {
         public static final int status_bar_notification_info_maxnum = 0x7f0a000e;

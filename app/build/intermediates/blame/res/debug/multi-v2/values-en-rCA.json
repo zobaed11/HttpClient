@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\HttpClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+            "outputFile": "/home/c00300901/Downloads/HttpClient-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Mohamed Seliem\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\87d9355cf2798b8b1b4665ab99e0a9e4\\res\\values-en-rCA\\values-en-rCA.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,209,309,417,501,601,716,793,869,951,1054,1158,1257,1362,1465,1569,1725,1825",
-                        "endColumns": "103,99,107,83,99,114,76,75,81,102,103,98,104,102,103,155,99,81",
-                        "endOffsets": "204,304,412,496,596,711,788,864,946,1049,1153,1252,1357,1460,1564,1720,1820,1902"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Mohamed Seliem\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-11.4.2.aar\\becf1a205ea8a26611d7699c53d5502e\\res\\values-en-rCA\\values.xml",
+                    "source": "/home/c00300901/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.4.2.aar/3ced8148d0d94d279df345489e861c17/res/values-en-rCA/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -29,37 +19,15 @@
                         "endColumns": "103",
                         "endOffsets": "2006"
                     }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\home\\c00300901\\Downloads\\HttpClient-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
-            "map": [
+                },
                 {
-                    "source": "C:\\home\\c00300901\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\cfbdb814ad9e6d989d5cd4370809c9dd\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "source": "/home/c00300901/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/439fbcb08b6cdc57722b2c76ef8c8201/res/values-en-rCA/values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
                         "startOffsets": "105,209,309,417,501,601,716,793,869,951,1054,1158,1257,1362,1465,1569,1725,1825",
                         "endColumns": "103,99,107,83,99,114,76,75,81,102,103,98,104,102,103,155,99,81",
                         "endOffsets": "204,304,412,496,596,711,788,864,946,1049,1153,1252,1357,1460,1564,1720,1820,1902"
-                    }
-                },
-                {
-                    "source": "C:\\home\\c00300901\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-11.4.2.aar\\ffa1569e0473dc48f1026f0e22cdfd40\\res\\values-en-rCA\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "244",
-                        "endColumns": "99",
-                        "endOffsets": "343"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "1907",
-                        "endColumns": "103",
-                        "endOffsets": "2006"
                     }
                 }
             ]

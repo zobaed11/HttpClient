@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Sun Nov 26 13:11:17 CST 2017
+#Sun Nov 26 22:07:29 CST 2017
 0.baseType=DIRECTORY
-0.base=C\:\\HttpClient\\app\\build\\intermediates\\assets\\debug
+0.base=/home/c00300901/Downloads/HttpClient-master/app/build/intermediates/assets/debug
 0.path=giphy (1).gif
 0.set=ASSET
 count=1

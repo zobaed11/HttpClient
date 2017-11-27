@@ -5,5 +5,28 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.hms.mohamedseliem.httpclient.AboutUS">
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Health Ultima"
+        android:paddingTop="10dp"
+        android:paddingBottom="5dp"
+        android:fontFamily="@string/app_name"
+        android:layout_marginLeft="5dp"
+        android:paddingLeft="5dp"
+        android:textStyle="bold"
+        />
+        />
 
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Health Monitoring and emergency aid system by implementing android application to communicate with the server system. It is an initial release version. We will be upgrading it continuously to meet users' requirements.\n\nFor any bug please report:\n\t zobaedsakib@gmail.com\n\t mseliem11@gmail.com\n\tc0081190@louisiana.edu"
+        android:paddingTop="30dp"
+        android:paddingBottom="5dp"
+        android:layout_marginLeft="5dp"
+        android:paddingLeft="5dp"
+        />
 </android.support.constraint.ConstraintLayout>
