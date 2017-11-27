@@ -5,5 +5,33 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.hms.mohamedseliem.httpclient.PrivacyPolicy">
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Health Ultima"
+        android:paddingTop="10dp"
+        android:paddingBottom="5dp"
+        android:fontFamily="@string/app_name"
+        android:layout_marginLeft="5dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:textStyle="bold"
+        />
+    />
 
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="The project is part of software Methodolgy class under supervision of Prof. Arun Lakhotia.
+
+This project tends to create software solution to keep patients engaged with the care of long-term, and gather data on a daily basis that is useful for their care; the project will help users to connect with their pharmacist, or doctors when beneficial or in case of emergency. The software will be interactive with the user to allow better communication and better using experience."
+        android:paddingTop="30dp"
+        android:paddingBottom="5dp"
+        android:layout_marginLeft="10dp"
+        android:paddingLeft="10dp"
+        android:layout_marginRight="3dp"
+        android:paddingRight="5dp"
+        />
 </android.support.constraint.ConstraintLayout>

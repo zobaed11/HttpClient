@@ -28,5 +28,6 @@
         android:paddingBottom="5dp"
         android:layout_marginLeft="5dp"
         android:paddingLeft="5dp"
+        android:layout_marginRight="3dp"
         />
 </android.support.constraint.ConstraintLayout>
